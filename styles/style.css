@@ -145,7 +145,7 @@ body.in-menu {
     gap: 30px;
     align-items: center;
 }
-.header__auth li:first-child {
+.header__auth li, a {
     color: #0B132A;
 }
 
